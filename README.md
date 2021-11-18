@@ -1,6 +1,8 @@
 # so_long
 
-Small 2D game with basic gameplay
+Small 2D game with basic gameplay. This project is a part of my study at 42School (Moscow campus).
+
+Some information on MiniLibX - [42 Docs - MiniLibX](https://harm-smits.github.io/42docs/libs/minilibx/getting_started.html)
 
 ## How it works
 
