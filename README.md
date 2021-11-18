@@ -46,13 +46,3 @@ minimal movement without being caught by the enemies.
   <br>
   <br>
   <img src="./examples/simulation.gif" width="600" alt="map_simulation">
-
-- Map example 1:
-  <br>
-  <br>
-  <img src="./examples/example_1.png" width="600" alt="map_example_1">
-
-- Map Example 2:
-  <br>
-  <br>
-  <img src="./examples/example_2.png" width="600" alt="map_example_2">
